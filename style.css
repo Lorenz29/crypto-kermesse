@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(6, 202, 160);
+}
+
+h1 {
+  color: rgb(168, 23, 108);
+  margin-left: 20px;
+}
+
+h4 {
+  color: rgb(168, 23, 108);
+  margin-left: 20px;
+  font: 400 ; 
+}
