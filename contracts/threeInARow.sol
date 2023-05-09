@@ -2,6 +2,7 @@
 pragma solidity >=0.4.22 <0.9.0;
 
 //Copy of CoinFlip contract (OpenZepellin/Ethernaut)
+//Contract with security issues
 
 contract threeInARow {
 
